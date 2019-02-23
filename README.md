@@ -2,6 +2,10 @@
 
 ## ფილტრაცია & ძებნა
 
+> Never ruin an apology with an excuse
+
+![](.gitbook/assets/image.png)
+
 ## ობიექტების იერარქია
 
 ## ნავიგაცია
